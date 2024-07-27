@@ -34,23 +34,23 @@ async def make_carbon(code):
 @app.on_message(filters.command("toe", prefixes=["/", "!",]) & ~BANNED_USERS)
 @language
 async def ping_com(client, message: Message, _):
-    PING_VID_URL = "https://telegra.ph/file/e67b9a02c18bef5b0c37e.jpg"
+    PING_VID_URL = "https://telegra.ph/file/aade504a633e9b9e2d940.jpg"
     captionss = "**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ.**"
     response = await message.reply_video(PING_VID_URL, caption=(captionss))
     await asyncio.sleep(1)
     await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ...**")
     await asyncio.sleep(1)
-    await response.edit_caption("**🥀ᴀɴɴɪᴇ sᴛᴀʀᴛᴇᴅ ᴄᴏʟʟᴇᴄᴛɪɴɢ ᴅᴀᴛᴀ.**")
+    await response.edit_caption("**🥀ᴩɪᴄᴋ ᴜᴩ ʟɪɴᴇ ✍️ » sᴛᴀʀᴛᴇᴅ ᴄᴏʟʟᴇᴄᴛɪɴɢ ᴅᴀᴛᴀ.**")
     await asyncio.sleep(1)
-    await response.edit_caption("**🥀ᴀɴɴɪᴇ ɪs ᴀɴᴀʟʏsɪɴɢ ᴀʟʟ ᴛʜᴇ ғɪʟᴇs..**")
+    await response.edit_caption("**🥀ᴩɪᴄᴋ ᴜᴩ ʟɪɴᴇ ✍️ » ɪs ᴀɴᴀʟʏsɪɴɢ ᴀʟʟ ᴛʜᴇ ғɪʟᴇs..**")
     await asyncio.sleep(1.5)
-    await response.edit_caption("**🥀ᴀɴɴɪᴇ ᴜᴘɢʀᴀᴅᴇᴅ ᴛʜᴇ ᴊᴀʀᴠɪs ᴄᴏʀᴇ...**")
+    await response.edit_caption("**🥀ᴩɪᴄᴋ ᴜᴩ ʟɪɴᴇ ✍️ » ᴜᴘɢʀᴀᴅᴇᴅ ᴛʜᴇ 𝐑 𝛔 ϻ 𝛂‌ 𝛂‌ 𝛈 » ᴄᴏʀᴇ...**")
     await asyncio.sleep(1.5)
-    await response.edit_caption("**🥀ᴊᴀʀᴠɪs ᴜᴘᴅᴀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ....**")
+    await response.edit_caption("**🥀ᴩɪᴄᴋ ᴜᴩ ʟɪɴᴇ ✍️ » ᴜᴘᴅᴀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ....**")
     await asyncio.sleep(1.5)
-    await response.edit_caption("**ᴀɴɴɪᴇ ʜᴀs sᴜᴄᴄᴇssғᴜʟʟʏ ᴀɴᴀʟʏsᴇᴅ sʏsᴛᴇᴍ ᴅᴀᴛᴀ !**")
+    await response.edit_caption("**🥀ᴩɪᴄᴋ ᴜᴩ ʟɪɴᴇ ✍️ » ʜᴀs sᴜᴄᴄᴇssғᴜʟʟʏ ᴀɴᴀʟʏsᴇᴅ sʏsᴛᴇᴍ ᴅᴀᴛᴀ !**")
     await asyncio.sleep(2)
-    await response.edit_caption("**ᴊᴀʀᴠɪs 📩sᴇɴᴅɪɴɢ sʏsᴛᴇᴍ ᴀɴᴀʟʏsᴇᴅ ᴅᴀᴛᴀ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ...**")
+    await response.edit_caption("**𝐑 𝛔 ϻ 𝛂‌ 𝛂‌ 𝛈 » 📩sᴇɴᴅɪɴɢ sʏsᴛᴇᴍ ᴀɴᴀʟʏsᴇᴅ ᴅᴀᴛᴀ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ...**")
     start = datetime.now()
     pytgping = await JARVIS.ping()
     UP, CPU, RAM, DISK = await bot_sys_stats()
@@ -70,10 +70,10 @@ async def ping_com(client, message: Message, _):
         ],
         [
             InlineKeyboardButton(
-                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/Y_K_B_M",
+                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/ll_P_U_L_lI",
             ),
             InlineKeyboardButton(
-                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/Y_K_B_M",
+                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/ll_P_U_L_lI",
             )
         ],
         [
