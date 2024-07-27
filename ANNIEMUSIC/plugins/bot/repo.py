@@ -4,7 +4,7 @@ from ANNIEMUSIC import app
 from config import BOT_USERNAME
 
 start_txt = """**
-✪ ωεℓ¢σмє ƒσя jคяv¡ร яєρσѕ ✪
+✪ ωεℓ¢σмє ƒσя ʀσᴍᴀᴀɴ яєρσѕ ✪
  
  ➲ ᴀʟʟ ʀᴇᴘᴏ ᴇᴀsɪʟʏ ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴇʀʀᴏʀ ✰
  
@@ -31,7 +31,7 @@ async def start(_, msg):
             ],
      
             [
-             InlineKeyboardButton("𝐑 𝛔 ϻ 𝛂‌ 𝛂‌ 𝛈 »", url="https://t.me/ll_ZIDAN_ll"),
+             InlineKeyboardButton("ʀσᴍᴀᴀɴ", url="https://t.me/ll_ZIDAN_ll"),
              InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/ll_P_U_L_lI"),
              ],
      
